@@ -39,7 +39,7 @@ Create user with read/write access:
 
 ### Install node modules
 
-    cd explorer && npm install --production
+    cd cbsl-explorer && npm install --production
 
 ### Configure
 
