@@ -1,5 +1,5 @@
-CBSL-Block.explorer, CBSLCoin Block Explorer - v1.0
-================
+CBSLCoin Block Explorer - v1.0
+==============================
 
 
 This project is a fork of [Iquidus Explorer](https://github.com/iquidus/explorer) so massive thanks go out to Luke Williams for his code. Further development was derived from [Ciquidus Explorer](https://github.com/suprnudr/ciquidus)! Thank you!!!
